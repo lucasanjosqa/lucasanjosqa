@@ -11,7 +11,6 @@ Sou um **Analista de Qualidade de Software** apaixonado por tecnologia, testes e
 - **Email:** [rs.lucascorrea@gmail.com](mailto:rs.lucascorrea@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/lucascga/](https://www.linkedin.com/in/lucascga/)  
 - **Telefone:** (51) 99287-5764  
-- **Objetivo Profissional:** Atuar como Analista de Qualidade de Software, garantindo a entrega de produtos robustos e alinhados às necessidades dos usuários.
 
 Sou um profissional dedicado, com foco em qualidade, produtividade e colaboração. Tenho experiência em gerenciar backlogs, priorizar funcionalidades, elaborar planos de teste e assegurar a qualidade de produtos utilizados por mais de 200.000 usuários.
 
@@ -90,7 +89,7 @@ Sou um profissional dedicado, com foco em qualidade, produtividade e colaboraç�
 ### ⚙️ Metodologias e Práticas
 
 - **🏃 Ágeis:** Scrum Framework, Kanban  
-- **🔄 DevOps:** Conhecimentos em CI/CD, Jenkins, Docker, Kubernetes  
+- **🔄 DevOps:** Conhecimentos em CI/CD, Jenkins, Docker
 - **✅ Desenvolvimento Guiado por Testes:** TDD com JUnit  
 
 ---
